@@ -10,6 +10,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -120,6 +123,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -149,4 +153,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
