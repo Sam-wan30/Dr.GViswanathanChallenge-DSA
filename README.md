@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -42,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -196,4 +198,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
