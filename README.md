@@ -8,6 +8,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -43,6 +44,7 @@
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -96,6 +98,7 @@
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -176,6 +179,7 @@
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1563-stone-game-v) |
 ## Backtracking
 |  |
 | ------- |
