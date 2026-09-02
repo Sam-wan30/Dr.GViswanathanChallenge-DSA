@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
