@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -115,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1510-stone-game-iv) |
