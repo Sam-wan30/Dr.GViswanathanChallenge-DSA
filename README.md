@@ -39,6 +39,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -176,6 +177,7 @@
 | [1291-sequential-digits](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
