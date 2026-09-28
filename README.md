@@ -40,6 +40,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -325,8 +326,10 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
