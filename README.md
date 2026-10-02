@@ -39,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0115-distinct-subsequences) |
+| [0344-reverse-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -146,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
