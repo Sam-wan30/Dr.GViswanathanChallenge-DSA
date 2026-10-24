@@ -16,6 +16,7 @@
 | [1927-sum-game](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -52,6 +53,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
