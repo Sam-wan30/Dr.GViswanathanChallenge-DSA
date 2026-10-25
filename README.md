@@ -83,6 +83,7 @@
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -155,6 +156,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -235,11 +237,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -409,4 +413,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
