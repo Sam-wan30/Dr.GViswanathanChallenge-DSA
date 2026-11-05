@@ -88,6 +88,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -153,6 +154,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -238,6 +241,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
