@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -182,6 +184,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/0344-reverse-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sam-wan30/Dr.GViswanathanChallenge-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
